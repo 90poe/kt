@@ -1,4 +1,4 @@
-module github.com/fgeller/kt
+module github.com/90poe/kt
 
 require (
 	github.com/Shopify/sarama v1.26.1
